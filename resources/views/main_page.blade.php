@@ -92,7 +92,7 @@
                 </div>
             </div>
         </a>
-        <a href="#" class="card-lastchild">
+        <a href="#" class="card card-lastchild">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/faq.png') }}" alt="" class="h-full">
                 </div>
