@@ -12,11 +12,11 @@
 
 <body>
     <header>
-        <figure class="">
+        <figure>
             <img src="{{ asset('images/banner.png') }}" alt="foto anggota kpp mojokerto" class="w-screen">
-            <figcaption class="bg-banner-kpp -translate-y-[100%] p-2">
+            <figcaption class="bg-banner-kpp -translate-y-[100%] p-2 sm:p-6 sm:text-center">
                 <h1 class="text-white font-bold text-xl">KPP Pratama Mojokerto</h1>
-                <p class="text-white text-[0.75rem]">Jl. R.A Basuni No.KM, RW.5, Jampirogo, Kec. Sooko, Kab. Mojokerto
+                <p class="text-white text-[0.75rem] sm:text-sm">Jl. R.A Basuni No.KM, RW.5, Jampirogo, Kec. Sooko, Kab. Mojokerto
                 </p>
             </figcaption>
         </figure>
