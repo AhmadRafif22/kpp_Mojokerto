@@ -3,11 +3,11 @@
 @tailwind utilities;
 
 .card {
-    @apply block w-screen pb-5
+    @apply block w-11/12 pb-5 mx-auto
 }
 
 .card-lastchild {
-    @apply block w-screen
+    @apply block w-11/12 mx-auto
 }
 
 .card-content {
@@ -20,4 +20,12 @@
 
 .card-text {
     @apply text-white w-2/3
+}
+
+.card-title {
+    @apply font-bold
+}
+
+.card-desc {
+    @apply text-sm
 }
