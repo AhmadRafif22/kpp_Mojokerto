@@ -11,8 +11,8 @@
 </head>
 
 <body>
-    <div class="">
-        <a href="#" class="card">
+    <main class="">
+        <a href="#" class="card" role="link">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/NPWP.png') }}" alt="" class="h-full">
                 </div>
@@ -22,7 +22,7 @@
                 </div>
             </div>
         </a>
-        <a href="#" class="card">
+        <a href="#" class="card" role="link">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/wa-konsul.png') }}" alt="" class="h-full">
                 </div>
@@ -32,7 +32,7 @@
                 </div>
             </div>
         </a>
-        <a href="#" class="card">
+        <a href="#" class="card" role="link">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/kode-billing.png') }}" alt="" class="h-full">
                 </div>
@@ -42,7 +42,7 @@
                 </div>
             </div>
         </a>
-        <a href="#" class="card">
+        <a href="#" class="card" role="link">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/spt-tahunan.png') }}" alt="" class="h-full">
                 </div>
@@ -52,7 +52,7 @@
                 </div>
             </div>
         </a>
-        <a href="#" class="card">
+        <a href="#" class="card" role="link">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/tutorial-perpajakan.png') }}" alt="" class="h-full">
                 </div>
@@ -62,7 +62,7 @@
                 </div>
             </div>
         </a>
-        <a href="#" class="card">
+        <a href="#" class="card" role="link">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/form-perpajakan.png') }}" alt="" class="h-full">
                 </div>
@@ -72,7 +72,7 @@
                 </div>
             </div>
         </a>
-        <a href="#" class="card">
+        <a href="#" class="card" role="link">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/peraturan perpajakan.png') }}" alt="" class="h-full">
                 </div>
@@ -82,7 +82,7 @@
                 </div>
             </div>
         </a>
-        <a href="#" class="card">
+        <a href="#" class="card" role="link">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/layanan-tatap-muka.png') }}" alt="" class="h-full">
                 </div>
@@ -92,7 +92,7 @@
                 </div>
             </div>
         </a>
-        <a href="#" class="card card-lastchild">
+        <a href="#" class="card card-lastchild" role="link">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/faq.png') }}" alt="" class="h-full">
                 </div>
@@ -102,7 +102,7 @@
                 </div>
             </div>
         </a>
-    </div>
+    </main>
 </body>
 
 </html>
