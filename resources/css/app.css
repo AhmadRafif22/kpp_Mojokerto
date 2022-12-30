@@ -5,6 +5,7 @@
 .card {
     @apply block w-11/12 pb-5 mx-auto
     sm:w-3/4
+    lg:w-1/2
 }
 
 .card-lastchild {
@@ -12,7 +13,7 @@
 }
 
 .card-content {
-    @apply h-24 bg-main-bg flex items-center gap-x-3 px-2 rounded-md
+    @apply h-24 bg-main-bg flex items-center gap-x-3 px-2 rounded-md transition delay-75 hover:bg-main-bg-hover
     sm:justify-center sm:h-24
 }
 
@@ -24,10 +25,12 @@
 .card-text {
     @apply text-white w-2/3
     sm:w-1/2
+    lg:text-base
 }
 
 .card-title {
     @apply font-bold
+    lg:text-xl
 }
 
 .card-desc {
