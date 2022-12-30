@@ -11,8 +11,17 @@
 </head>
 
 <body>
-    <header></header>
-    <main class="py-10">
+    <header>
+        <figure class="">
+            <img src="{{ asset('images/banner.png') }}" alt="foto anggota kpp mojokerto" class="w-screen">
+            <figcaption class="bg-banner-kpp -translate-y-[100%] p-2">
+                <h1 class="text-white font-bold text-xl">KPP Pratama Mojokerto</h1>
+                <p class="text-white text-[0.75rem]">Jl. R.A Basuni No.KM, RW.5, Jampirogo, Kec. Sooko, Kab. Mojokerto
+                </p>
+            </figcaption>
+        </figure>
+    </header>
+    <main class="pb-10 -mt-5">
         <a href="#" class="card" role="link">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/NPWP.png') }}" alt="" class="h-full">
@@ -109,7 +118,7 @@
         </a>
     </main>
     <footer>
-        <p class="main-bg text-white text-sm text-center py-1">&copy; KPP Pratama Mojokerto | 2022</p>
+        <p class="bg-main-bg text-white text-sm text-center py-1">&copy; KPP Pratama Mojokerto | 2022</p>
     </footer>
 </body>
 

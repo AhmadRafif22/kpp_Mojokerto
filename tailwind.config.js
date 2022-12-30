@@ -5,7 +5,12 @@ module.exports = {
     "./resources/**/*.js",
   ],
   theme: {
-    extend: {},
+    extend: {
+        colors: {
+            'banner-kpp': 'rgba(32, 44, 95, 0.75)',
+            'main-bg': '#202C5F',
+        }
+    },
   },
   plugins: [],
 }
