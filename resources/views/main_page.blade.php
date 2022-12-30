@@ -11,7 +11,8 @@
 </head>
 
 <body>
-    <main class="">
+    <header></header>
+    <main class="py-10">
         <a href="#" class="card" role="link">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/NPWP.png') }}" alt="" class="h-full">
@@ -54,7 +55,8 @@
         </a>
         <a href="#" class="card" role="link">
             <div class="card-content">
-                <div class="card-image"><img src="{{ asset('images/tutorial-perpajakan.png') }}" alt="" class="h-full">
+                <div class="card-image"><img src="{{ asset('images/tutorial-perpajakan.png') }}" alt=""
+                        class="h-full">
                 </div>
                 <div class="card-text">
                     <h2 class="card-title">Tutorial <span class="text-[#FFCA19]">Perpajakan</span></h2>
@@ -64,7 +66,8 @@
         </a>
         <a href="#" class="card" role="link">
             <div class="card-content">
-                <div class="card-image"><img src="{{ asset('images/form-perpajakan.png') }}" alt="" class="h-full">
+                <div class="card-image"><img src="{{ asset('images/form-perpajakan.png') }}" alt=""
+                        class="h-full">
                 </div>
                 <div class="card-text">
                     <h2 class="card-title">Formulir <span class="text-[#FFCA19]">Perpajakan</span></h2>
@@ -74,7 +77,8 @@
         </a>
         <a href="#" class="card" role="link">
             <div class="card-content">
-                <div class="card-image"><img src="{{ asset('images/peraturan perpajakan.png') }}" alt="" class="h-full">
+                <div class="card-image"><img src="{{ asset('images/peraturan perpajakan.png') }}" alt=""
+                        class="h-full">
                 </div>
                 <div class="card-text">
                     <h2 class="card-title">Peraturan <span class="text-[#FFCA19]">Perpajakan</span></h2>
@@ -84,7 +88,8 @@
         </a>
         <a href="#" class="card" role="link">
             <div class="card-content">
-                <div class="card-image"><img src="{{ asset('images/layanan-tatap-muka.png') }}" alt="" class="h-full">
+                <div class="card-image"><img src="{{ asset('images/layanan-tatap-muka.png') }}" alt=""
+                        class="h-full">
                 </div>
                 <div class="card-text">
                     <h2 class="card-title">Layanan <span class="text-[#FFCA19]">Tatap Muka</span></h2>
@@ -103,6 +108,9 @@
             </div>
         </a>
     </main>
+    <footer>
+        <p class="main-bg text-white text-sm text-center py-1">&copy; KPP Pratama Mojokerto | 2022</p>
+    </footer>
 </body>
 
 </html>

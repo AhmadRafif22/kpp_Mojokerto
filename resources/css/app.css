@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.main-bg {
+    @apply bg-[#202C5F]
+}
+
 .card {
     @apply block w-11/12 pb-5 mx-auto
     sm:w-3/4
@@ -12,7 +16,7 @@
 }
 
 .card-content {
-    @apply h-24 bg-[#202C5F] flex items-center gap-x-3 px-2 rounded-md
+    @apply h-24 main-bg flex items-center gap-x-3 px-2 rounded-md
     sm:justify-center sm:h-24
 }
 
