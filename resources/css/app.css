@@ -36,3 +36,32 @@
 .card-desc {
     @apply text-sm
 }
+
+/* submenu */
+.submenu-header {
+    @apply w-screen bg-main-bg flex justify-start gap-x-5 py-2 px-4 sticky top-0 left-0
+}
+
+.submenu-card {
+    @apply bg-[#FFCA19] h-20 flex mb-3
+}
+
+.submenu-card__img {
+    @apply bg-main-bg w-1/4 flex items-center
+}
+
+.submenu-card__content {
+    @apply w-3/4 px-2 flex items-center
+}
+
+.submenu-card__content__container {
+    @apply w-full
+}
+
+.submenu-card__content__title {
+    @apply border-b-2 border-white font-bold text-main-bg pb-1
+}
+
+.submenu-card__content__desc {
+    @apply text-xs pt-1
+}

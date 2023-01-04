@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <header class="w-screen bg-main-bg flex justify-start gap-x-5 py-2 px-4">
+    <header class="submenu-header">
         <a href="/" class="text-white font-bold"><</a>
                 <h2 class="text-white">KPP Pratama Mojokerto</h2>
     </header>
@@ -20,40 +20,66 @@
         </div>
         <div class="w-11/12 m-auto">
             <a href="https://ereg.pajak.go.id">
-                <div class="bg-[#FFCA19] h-20 flex mb-3">
-                    <div class="bg-main-bg w-1/4 flex items-center">
+                <div class="submenu-card">
+                    <div class="submenu-card__img">
                         <img src="{{ asset('images/Vector.png') }}" alt="" class="m-auto">
                     </div>
-                    <div class="w-3/4 px-2 flex items-center">
-                        <div class="w-full">
-                            <p class="border-b-2 border-white font-bold text-main-bg pb-1">https://ereg.pajak.go.id</p>
-                            <p class="text-xs pt-1">Aplikasi pendaftaran NPWP</p>
+                    <div class="submenu-card__content">
+                        <div class="submenu-card__content__container">
+                            <h2 class="submenu-card__content__title">https://ereg.pajak.go.id</h2>
+                            <p class="submenu-card__content__desc">Aplikasi pendaftaran NPWP</p>
                         </div>
                     </div>
                 </div>
             </a>
             <a href="https://ereg.pajak.go.id">
-                <div class="bg-[#FFCA19] h-20 flex mb-3">
-                    <div class="bg-main-bg w-1/4 flex items-center">
+                <div class="submenu-card">
+                    <div class="submenu-card__img">
                         <img src="{{ asset('images/Vector.png') }}" alt="" class="m-auto">
                     </div>
-                    <div class="w-3/4 px-2 flex items-center">
-                        <div class="w-full">
-                            <p class="border-b-2 border-white font-bold text-main-bg pb-1">https://ereg.pajak.go.id</p>
-                            <p class="text-xs pt-1">Aplikasi pendaftaran NPWP</p>
+                    <div class="submenu-card__content">
+                        <div class="submenu-card__content__container">
+                            <h2 class="submenu-card__content__title">https://ereg.pajak.go.id</h2>
+                            <p class="submenu-card__content__desc">Aplikasi pendaftaran NPWP</p>
                         </div>
                     </div>
                 </div>
             </a>
             <a href="https://ereg.pajak.go.id">
-                <div class="bg-[#FFCA19] h-20 flex mb-3">
-                    <div class="bg-main-bg w-1/4 flex items-center">
+                <div class="submenu-card">
+                    <div class="submenu-card__img">
                         <img src="{{ asset('images/Vector.png') }}" alt="" class="m-auto">
                     </div>
-                    <div class="w-3/4 px-2 flex items-center">
-                        <div class="w-full">
-                            <p class="border-b-2 border-white font-bold text-main-bg pb-1">https://ereg.pajak.go.id</p>
-                            <p class="text-xs pt-1">Aplikasi pendaftaran NPWP</p>
+                    <div class="submenu-card__content">
+                        <div class="submenu-card__content__container">
+                            <h2 class="submenu-card__content__title">https://ereg.pajak.go.id</h2>
+                            <p class="submenu-card__content__desc">Aplikasi pendaftaran NPWP</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <a href="https://ereg.pajak.go.id">
+                <div class="submenu-card">
+                    <div class="submenu-card__img">
+                        <img src="{{ asset('images/Vector.png') }}" alt="" class="m-auto">
+                    </div>
+                    <div class="submenu-card__content">
+                        <div class="submenu-card__content__container">
+                            <h2 class="submenu-card__content__title">https://ereg.pajak.go.id</h2>
+                            <p class="submenu-card__content__desc">Aplikasi pendaftaran NPWP</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <a href="https://ereg.pajak.go.id">
+                <div class="submenu-card">
+                    <div class="submenu-card__img">
+                        <img src="{{ asset('images/Vector.png') }}" alt="" class="m-auto">
+                    </div>
+                    <div class="submenu-card__content">
+                        <div class="submenu-card__content__container">
+                            <h2 class="submenu-card__content__title">https://ereg.pajak.go.id</h2>
+                            <p class="submenu-card__content__desc">Aplikasi pendaftaran NPWP</p>
                         </div>
                     </div>
                 </div>
