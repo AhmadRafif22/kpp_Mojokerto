@@ -86,6 +86,9 @@
             </a>
         </div>
     </main>
+    <footer>
+        <p class="bg-main-bg text-white text-sm text-center py-1">&copy; KPP Pratama Mojokerto | 2022</p>
+    </footer>
 </body>
 
 </html>
