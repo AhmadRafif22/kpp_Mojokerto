@@ -14,7 +14,7 @@
         <a href="/" class="text-white font-bold"><</a>
                 <h2 class="text-white">KPP Pratama Mojokerto</h2>
     </header>
-    <main>
+    <main class="h-screen">
         <div class="py-5">
             <h1 class="page-title--submenu">Pendaftaran NPWP</h1>
         </div>
@@ -86,7 +86,7 @@
             </a>
         </div>
     </main>
-    <footer>
+    <footer class="">
         <p class="bg-main-bg text-white text-sm text-center py-1">&copy; KPP Pratama Mojokerto | 2022</p>
     </footer>
 </body>
