@@ -16,9 +16,9 @@
     </header>
     <main>
         <div class="py-5">
-            <h1 class="text-center text-lg">Pendaftaran NPWP</h1>
+            <h1 class="page-title--submenu">Pendaftaran NPWP</h1>
         </div>
-        <div class="w-11/12 m-auto">
+        <div class="submenu-card__container">
             <a href="https://ereg.pajak.go.id">
                 <div class="submenu-card">
                     <div class="submenu-card__img">

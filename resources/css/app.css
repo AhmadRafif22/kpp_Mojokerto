@@ -38,12 +38,20 @@
 }
 
 /* submenu */
+.page-title--submenu {
+    @apply text-center text-xl
+}
+
 .submenu-header {
     @apply w-screen bg-main-bg flex justify-start gap-x-5 py-2 px-4 sticky top-0 left-0
 }
 
 .submenu-card {
     @apply bg-[#FFCA19] h-20 flex mb-3
+}
+
+.submenu-card__container {
+    @apply w-11/12 mx-auto mb-10 sm:w-3/4 lg:w-1/2
 }
 
 .submenu-card__img {
