@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/sub', function () {
     return view('sub_menu');
 });
+
+Route::get('/wa', function () {
+    return view('Whatsapp');
+});
