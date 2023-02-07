@@ -5,71 +5,71 @@
 .card {
     @apply block w-11/12 pb-5 mx-auto
     sm:w-3/4
-    lg:w-1/2
+    lg:w-1/2;
 }
 
 .card-lastchild {
-    @apply pb-0
+    @apply pb-0;
 }
 
 .card-content {
     @apply h-24 bg-main-bg flex items-center gap-x-3 px-2 rounded-md transition delay-75 hover:bg-main-bg-hover
-    sm:justify-center sm:h-24
+    sm:justify-center sm:h-24;
 }
 
 .card-image {
     @apply w-1/4 flex items-center
-    sm:justify-center
+    sm:justify-center;
 }
 
 .card-text {
     @apply text-white w-2/3
     sm:w-1/2
-    lg:text-base
+    lg:text-base;
 }
 
 .card-title {
     @apply font-bold
-    lg:text-xl
+    lg:text-xl;
 }
 
 .card-desc {
-    @apply text-sm
+    @apply text-sm;
 }
 
 /* submenu */
 .page-title--submenu {
-    @apply text-center text-xl
+    @apply text-center text-xl;
 }
 
 .submenu-header {
-    @apply w-screen bg-main-bg flex justify-start gap-x-5 py-2 px-4 sticky top-0 left-0
+    @apply w-full bg-main-bg flex justify-start gap-x-5 py-3 px-4 sticky top-0 left-0;
 }
 
 .submenu-card {
-    @apply bg-[#FFCA19] h-20 flex mb-3
+    @apply bg-[#FFCA19] h-20 flex mb-3;
 }
 
 .submenu-card__container {
-    @apply w-11/12 mx-auto mb-10 sm:w-3/4 lg:w-1/2
+    @apply w-11/12 mx-auto mb-10 sm:w-3/4 lg:w-1/2;
 }
 
 .submenu-card__img {
-    @apply bg-main-bg w-1/4 flex items-center
+    @apply bg-main-bg w-1/4 flex items-center;
 }
 
 .submenu-card__content {
-    @apply w-3/4 px-2 flex items-center
+    @apply w-3/4 px-2 flex items-center;
 }
 
 .submenu-card__content__container {
-    @apply w-full
+    @apply w-full;
 }
 
 .submenu-card__content__title {
-    @apply border-b-2 border-white font-bold text-main-bg pb-1
+    @apply border-b-2 border-white font-bold text-main-bg pb-1;
 }
 
 .submenu-card__content__desc {
-    @apply text-xs pt-1
+    @apply text-xs pt-1;
 }
