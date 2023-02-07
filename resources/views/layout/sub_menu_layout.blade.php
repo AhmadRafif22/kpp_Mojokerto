@@ -11,13 +11,13 @@
 </head>
 
 <body>
-    <header class="submenu-header">
-        <a href="/" class="text-white font-bold"><</a>
+    <header class="submenu-header"> 
+        <a href="/" class="text-white font-bold"><i class="fa fa-angle-double-left" aria-hidden="true"></i></a>
                 <h2 class="text-white">KPP Pratama Mojokerto</h2>
     </header>
     @yield('content')
     <footer class="">
-        <p class="bg-main-bg text-white text-sm text-center py-1">&copy; KPP Pratama Mojokerto | 2022</p>
+        <p class="bg-main-bg text-white text-sm text-center py-1">&copy; KPP Pratama Mojokerto | 2023</p>
     </footer>
 </body>
 

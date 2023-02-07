@@ -21,6 +21,6 @@ Route::get('/sub', function () {
     return view('sub_menu');
 });
 
-Route::get('/wa', function () {
+Route::get('/Konsultasi Perpajakan', function () {
     return view('Whatsapp');
-});
+})->name('sub.konsultasi');

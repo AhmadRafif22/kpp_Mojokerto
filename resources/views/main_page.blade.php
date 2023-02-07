@@ -32,7 +32,7 @@
                 </div>
             </div>
         </a>
-        <a href="#" class="card" role="link">
+        <a href="{{ route('sub.konsultasi') }}" class="card" role="link">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/wa-konsul.png') }}" alt="" class="h-full">
                 </div>
