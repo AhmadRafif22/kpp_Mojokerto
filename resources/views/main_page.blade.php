@@ -22,7 +22,7 @@
         </figure>
     </header>
     <main class="pb-10 -mt-5 lg:pb-32 lg:-mt-40">
-        <a href="#" class="card" role="link">
+        <a href="{{ route('sub.pendaftaranNPWP') }}" class="card" role="link">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/NPWP.png') }}" alt="" class="h-full">
                 </div>

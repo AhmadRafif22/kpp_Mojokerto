@@ -21,6 +21,10 @@ Route::get('/sub', function () {
     return view('sub_menu');
 });
 
-Route::get('/Konsultasi Perpajakan', function () {
+Route::get('/konsultasi-perpajakan', function () {
     return view('Whatsapp');
 })->name('sub.konsultasi');
+
+Route::get('/pendaftaran-NPWP', function () {
+    return view('sub_pendaftaranNPWP');
+})->name('sub.pendaftaranNPWP');
