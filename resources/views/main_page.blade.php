@@ -46,7 +46,7 @@
                 </div>
             </div>
         </a>
-        <a href="#" class="card" role="link">
+        <a href="{{ route('sub.kodeBiling') }}" class="card" role="link">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/kode-billing.png') }}" alt="image-kode-biling"
                         class="h-full">

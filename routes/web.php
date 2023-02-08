@@ -28,3 +28,7 @@ Route::get('/konsultasi-perpajakan', function () {
 Route::get('/pendaftaran-NPWP', function () {
     return view('sub_pendaftaranNPWP');
 })->name('sub.pendaftaranNPWP');
+
+Route::get('/kode-biling', function () {
+    return view('sub_kodeBiling');
+})->name('sub.kodeBiling');
