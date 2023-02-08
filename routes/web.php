@@ -32,3 +32,7 @@ Route::get('/pendaftaran-NPWP', function () {
 Route::get('/kode-biling', function () {
     return view('sub_kodeBiling');
 })->name('sub.kodeBiling');
+
+Route::get('/lapor-SPT', function () {
+    return view('sub_laporSPTTahunan');
+})->name('sub.laporSPTTahunan');

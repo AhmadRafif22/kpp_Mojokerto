@@ -57,7 +57,7 @@
                 </div>
             </div>
         </a>
-        <a href="#" class="card" role="link">
+        <a href="{{ route('sub.laporSPTTahunan') }}" class="card" role="link">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/spt-tahunan.png') }}" alt="image-spt-tahunan"
                         class="h-full">
@@ -68,7 +68,7 @@
                 </div>
             </div>
         </a>
-        <a href="#" class="card" role="link">
+        <a href="https://www.youtube.com/playlist?list=PLDDScx7l7xS2fT-w5yIhbd6aT0xg4g62O" class="card" role="link" target="_blank">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/tutorial-perpajakan.png') }}"
                         alt="image-tutorial-perpajakan" class="h-full">
@@ -79,7 +79,7 @@
                 </div>
             </div>
         </a>
-        <a href="#" class="card" role="link">
+        <a href="https://www.pajak.go.id/formulir-page/" class="card" role="link" target="_blank">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/form-perpajakan.png') }}" alt="image-form-perpajakan"
                         class="h-full">
@@ -90,7 +90,7 @@
                 </div>
             </div>
         </a>
-        <a href="#" class="card" role="link">
+        <a href="https://pajak.go.id/id/peraturan" class="card" role="link" target="_blank">
             <div class="card-content">
                 <div class="card-image"><img src="{{ asset('images/peraturan perpajakan.png') }}"
                         alt="image-peraturan-perpajakan" class="h-full">
