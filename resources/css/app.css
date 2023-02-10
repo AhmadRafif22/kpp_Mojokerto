@@ -18,14 +18,14 @@
 }
 
 .card-image {
-    @apply w-1/4 flex items-center
-    sm:justify-center;
+    @apply w-1/2 flex items-center
+    sm:justify-center sm:w-1/4;
 }
 
 .card-text {
-    @apply text-white w-2/3
-    sm:w-1/2
-    lg:text-base;
+    @apply text-white text-sm w-2/3
+    sm:w-1/2 sm:text-base
+    md:text-lg
 }
 
 .card-title {
