@@ -101,27 +101,6 @@
                 </div>
             </div>
         </a>
-        <a href="#" class="card" role="link">
-            <div class="card-content">
-                <div class="card-image"><img src="{{ asset('images/layanan-tatap-muka.png') }}"
-                        alt="image-layanan-tatap-muka" class="h-full">
-                </div>
-                <div class="card-text">
-                    <h2 class="card-title">Layanan <span class="text-warning">Tatap Muka</span></h2>
-                    <p class="card-desc">Reservasi Tiket Layanan Tatap Muka di Kantor</p>
-                </div>
-            </div>
-        </a>
-        <a href="#" class="card card-lastchild" role="link">
-            <div class="card-content">
-                <div class="card-image"><img src="{{ asset('images/faq.png') }}" alt="image-faq" class="h-full">
-                </div>
-                <div class="card-text">
-                    <h2 class="card-title">FAQ <span class="text-warning">Perpajakan</span></h2>
-                    <p class="card-desc">Tanya Jawab Perpajakan</p>
-                </div>
-            </div>
-        </a>
     </main>
     <footer>
         <p class="bg-main-bg text-white text-sm text-center py-4">&copy; KPP Pratama Mojokerto | 2022</p>
