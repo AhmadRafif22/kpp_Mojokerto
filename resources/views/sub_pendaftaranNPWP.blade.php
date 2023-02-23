@@ -20,22 +20,6 @@
             </div>
         </a>
 
-        <a href="#" target="_blank">
-            <div class="submenu-card">
-                <div class="submenu-card__img">
-                    <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg" class="m-auto">
-                        <path d="M24.0137 25.0098C23.5254 23.4473 23.5352 20.4297 23.8184 20.4297C24.6387 20.4297 24.5605 24.0332 24.0137 25.0098ZM23.8477 29.6191C23.0957 31.5918 22.1582 33.8477 21.0742 35.7422C22.8613 35.0586 24.8828 34.0625 27.2168 33.6035C25.9766 32.666 24.7852 31.3184 23.8477 29.6191ZM14.6582 41.8066C14.6582 41.8848 15.9473 41.2793 18.0664 37.8809C17.4121 38.4961 15.2246 40.2734 14.6582 41.8066ZM30.4688 15.625H43.75V47.6562C43.75 48.9551 42.7051 50 41.4062 50H8.59375C7.29492 50 6.25 48.9551 6.25 47.6562V2.34375C6.25 1.04492 7.29492 0 8.59375 0H28.125V13.2812C28.125 14.5703 29.1797 15.625 30.4688 15.625ZM29.6875 32.4023C27.7344 31.2109 26.4355 29.5703 25.5176 27.1484C25.957 25.3418 26.6504 22.5977 26.123 20.8789C25.6641 18.0078 21.9824 18.291 21.4551 20.2148C20.9668 22.002 21.416 24.5215 22.2461 27.7344C21.1133 30.4297 19.4434 34.043 18.2617 36.1133C18.252 36.1133 18.252 36.123 18.2422 36.123C15.5957 37.4805 11.0547 40.4688 12.9199 42.7637C13.4668 43.4375 14.4824 43.7402 15.0195 43.7402C16.7676 43.7402 18.5059 41.9824 20.9863 37.7051C23.5059 36.875 26.2695 35.8398 28.7012 35.4395C30.8203 36.5918 33.3008 37.3438 34.9512 37.3438C37.8027 37.3438 37.998 34.2188 36.875 33.1055C35.5176 31.7773 31.5723 32.1582 29.6875 32.4023ZM43.0664 10.2539L33.4961 0.683594C33.0566 0.244141 32.4609 0 31.8359 0H31.25V12.5H43.75V11.9043C43.75 11.2891 43.5059 10.6934 43.0664 10.2539ZM35.8301 35.1855C36.2305 34.9219 35.5859 34.0234 31.6504 34.3066C35.2734 35.8496 35.8301 35.1855 35.8301 35.1855Z" fill="white"/>
-                    </svg>
-                </div>
-                <div class="submenu-card__content">
-                    <div class="submenu-card__content__container">
-                        <h2 class="submenu-card__content__title">Petunjuk Pendaftaran</h2>
-                        <p class="submenu-card__content__desc">Download Petunjuk Pendaftaran NPWP (PDF)</p>
-                    </div>
-                </div>
-            </div>
-        </a>
-
         <a href="https://wa.me/6282139383701?text=Silahkan%20Isi%20Identitas%20Anda%20terlebih%20dahulu%0A%0ANama%20WP%20%20%20%20%20%20%20%20%20%20%3A%20%0ANPWP%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3A%20%0AJenis%20Konsultasi%20%3A%20Pendaftaran%20NPWP" target="_blank">
             <div class="submenu-card">
                 <div class="submenu-card__img">
@@ -68,7 +52,7 @@
                 </div>
                 <div class="submenu-card__content">
                     <div class="submenu-card__content__container">
-                        <h2 class="submenu-card__content__title">Tutorial Pendaftaran NPWP</h2>
+                        <h2 class="submenu-card__content__title">Tutorial Aplikasi</h2>
                         <p class="submenu-card__content__desc">Video Petunjuk Pendaftaran NPWP Orang Pribadi</p>
                     </div>
                 </div>

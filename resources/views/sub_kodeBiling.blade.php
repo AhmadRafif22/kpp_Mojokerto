@@ -70,7 +70,7 @@
                 </div>
                 <div class="submenu-card__content">
                     <div class="submenu-card__content__container">
-                        <h2 class="submenu-card__content__title">Konsultasi Pendaftaran NPWP</h2>
+                        <h2 class="submenu-card__content__title">Konsultasi Kode Biling</h2>
                         <p class="submenu-card__content__desc">Ajukan pertanyaan via Whatsaap</p>
                     </div>
                 </div>
