@@ -1,7 +1,7 @@
 @extends('layout.sub_menu_layout')
 
 @section('content')
-    <main class="h-full">
+    <main class="h-full max-w-3xl mx-auto">
         <div class="py-5">
             <h1 class="page-title--submenu">Konsultasi Perpajakan</h1>
         </div>
